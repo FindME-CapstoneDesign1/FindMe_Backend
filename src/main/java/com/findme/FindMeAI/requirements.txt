@@ -1,0 +1,7 @@
+Flask
+boto3
+torch
+opencv-python-headless
+pillow
+mysql-connector-python
+python-dotenv
